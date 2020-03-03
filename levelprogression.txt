@@ -1,0 +1,10 @@
+Level 1: Basic controls + flow into moving platforms; 100%
+Level 2: Moving platform training + flow into spikes; 99%
+Level 3: Spike trainig + show a door                ; 99%
+Level 4: Door training                              ; 80%   It's fine, just not very intersting
+Level 5: Something simple but uses everything       ; 0%
+Level 6: Bullshit                                   ; 90%   add some timed doors and fun at the end
+
+Known issues
+    - Moving is not possible while on a platform that is moving
+        Solution: Move when the platform is stopped
